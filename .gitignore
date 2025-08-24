@@ -22,3 +22,5 @@ pnpm-debug.log*
 # Firebase
 .firebase/
 functions/node_modules/
+firebase-debug.log
+
