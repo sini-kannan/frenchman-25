@@ -4,7 +4,7 @@ A French learning web app with vocabulary, image quiz, and listening practice. N
 
 ## Project Screenshot
 
-![FRENCHAN](https://github.com/SiniTP/frenchman-25/blob/screenshot/1.png)
+![FRENCHAN](./screenshots/1.png)
 
 ## Scripts
 
