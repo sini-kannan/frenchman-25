@@ -2,6 +2,10 @@
 
 A French learning web app with vocabulary, image quiz, and listening practice. Now structured as a modern front-end (Vite) with a Firebase Cloud Functions backend.
 
+## Project Screenshot
+
+![FRENCHAN](https://github.com/SiniTP/frenchman-25/blob/screenshot/1.png)
+
 ## Scripts
 
 - `npm run dev` — start Vite dev server
