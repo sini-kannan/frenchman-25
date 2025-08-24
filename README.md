@@ -2,8 +2,6 @@
 
 A French learning web app with vocabulary, image quiz, and listening practice. Now structured as a modern front-end (Vite) with a Firebase Cloud Functions backend.
 
-## Project Screenshot
-
 ![FRENCHAN](./screenshots/1.png)
 
 ## Scripts
@@ -21,6 +19,12 @@ A French learning web app with vocabulary, image quiz, and listening practice. N
 - `app.js`, `styles.css` — main UI logic and styles
 - `assets/` — images and icons (logo, avatars)
 - `functions/` — Firebase Cloud Functions (Express API)
+## Frontend
+
+![FRENCHAN](./screenshots/2.png)
+![FRENCHAN](./screenshots/3.png)
+![FRENCHAN](./screenshots/4.png)
+![FRENCHAN](./screenshots/5.png)
 
 ## Backend
 
